@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Web Development Practitioner<br>🌐 Always learning new frameworks!<br>💡Building the web, one line of code at a time!<br>📚 Always learning, always coding!
+💻 Web Development Practitioner<br>🌐 Always learning new frameworks!<br>💡Building the web, one line of code at a time!<br>📚 Always learning, always coding!!
 
 
 ## 🌐 Socials:
