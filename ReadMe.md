@@ -1,5 +1,5 @@
 <div align="center"> 
-  <a href="#Header"><img src="#StreakStat"><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Vauth's%20Stats" alt="Header" /></a>
+  <a href="#Header"><img src="#StreakStat"><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Abhinav's%20Stats" alt="Header" /></a>
   <a href="#GithubStat">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=08abhinav&data=followers,repositories,stars,commits&theme=rgb" align="center" ></a><br>
   <a href="#SkillStat"><img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,java,bash,json,postgresql,mysql,markdown&tools=git,docker,npm,mongodb,vercel,nodejs&software=linux,windows,vscode&theme=rgb" align="center"></a><br><br>
