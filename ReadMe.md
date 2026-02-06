@@ -11,20 +11,11 @@
       <img src="https://github-widgetbox.vercel.app/api/profile?username=08abhinav&data=followers,repositories,stars,commits&theme=rgb" />
     </a>
   </p>
-  <!-- Languages -->
-  <p align="center">
-    <a href="#SkillStat">
-      <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,go,js,ts,html,css,bash,yaml,markdown&theme=rgb" />
-    </a>
-  </p>
-  <!-- Tools & Databases -->
-  <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/skills?tools=linux,amazonwebservices,git,docker,terraform,ansible,grafana,prometheus,jenkins,gitlab,npm,mongodb,postgresql,mysql&theme=rgb" />
-  </p>
-  <!-- Software / OS -->
-  <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=rgb" />
-  </p>
+
+  <a href="#SkillStat">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,c,js,ts,html,css,bash,postgresql,mysql,markdown&tools=amazonwebservices,git,docker,terraform,ansible,grafana,prometheus,jenkins,gitlab,npm,nodejs&software=linux,windows,vscode&theme=rgb" align="center">
+  </a><br><br>
+
   <!-- GitHub Streak -->
   <p align="center">
     <a href="#StreakStat">
