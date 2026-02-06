@@ -23,7 +23,7 @@
 
   <!-- Tools & Databases -->
   <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/skills?toolsandDatabases=Linux,AWS,git,docker,terraform,ansible,grafana,prometheus,jenkins,gitlab,npm,mongodb,postgresql,mysql&theme=rgb" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?toolsandDatabases=linux,amazonwebservices,git,docker,terraform,ansible,grafana,prometheus,jenkins,gitlab,npm,mongodb,postgresql,mysql&theme=rgb" />
   </p>
 
   <!-- Software / OS -->
