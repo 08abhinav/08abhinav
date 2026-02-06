@@ -13,9 +13,8 @@
   </p>
 
   <a href="#SkillStat">
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,c,js,ts,html,css,bash,postgresql,mysql,markdown&tools=amazonwebservices,git,docker,terraform,ansible,grafana,prometheus,jenkins,gitlab,npm,nodejs&software=linux,windows,vscode&theme=rgb" align="center">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,c,js,ts,html,css,postgresql,mysql,bash,yaml,markdown&tools=aws,git,docker,npm,nodejs&frameworks=react,tailwind,express&software=linux,windows,vscode&theme=rgb&includeNames=true" align="center">
   </a><br><br>
-
   <!-- GitHub Streak -->
   <p align="center">
     <a href="#StreakStat">
