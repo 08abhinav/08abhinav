@@ -19,7 +19,7 @@
   </p>
   <!-- Tools & Databases -->
   <p align="center">
-    <img src="https://github-widgetbox.vercel.app/api/skills?toolsanddatabases=linux,amazonwebservices,git,docker,terraform,ansible,grafana,prometheus,jenkins,gitlab,npm,mongodb,postgresql,mysql&theme=rgb" />
+    <img src="https://github-widgetbox.vercel.app/api/skills?tools=linux,amazonwebservices,git,docker,terraform,ansible,grafana,prometheus,jenkins,gitlab,npm,mongodb,postgresql,mysql&theme=rgb" />
   </p>
   <!-- Software / OS -->
   <p align="center">
