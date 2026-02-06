@@ -13,10 +13,14 @@
   </p>
 
   <p align="center">
-    <a href="#SkillStat">
-      <img src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,go,js,ts,html,css,bash,yaml,markdown&toolsandDatabases=Linux,AWS,git,docker,terraform,ansible,grafana,prometheus,jenkins,gitlab,npm,mongodb,postgresql,mysql&software=linux,windows,vscode&theme=rgb" />
-    </a>
-  </p>
+  <a href="#SkillStat">
+    <img 
+      src="https://github-widgetbox.vercel.app/api/skills?languages=java,python,go,js,ts,html,css,bash,yaml,markdown&toolsandDatabases=Linux,AWS,git,docker,terraform,ansible,grafana,prometheus,jenkins,gitlab,npm,mongodb,postgresql,mysql&software=linux,windows,vscode&theme=rgb"
+      width="800"
+    />
+  </a>
+</p>
+
 
   <p align="center">
     <a href="#StreakStat">
